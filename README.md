@@ -1,2 +1,1 @@
-# gingival-inflammation-assessment
-Gingival Inflammation Assessment
+# Gingival Inflammation Assessment
