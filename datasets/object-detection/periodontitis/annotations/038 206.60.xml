@@ -1,0 +1,24 @@
+<annotation>
+    <annotator>Teera</annotator>
+    <folder>periodontitis</folder>
+    <filename>038 206.60.jpg</filename>
+    <size>
+        <width>3252</width>
+        <height>1536</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>periodontitis</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1945</xmin>
+            <ymin>810</ymin>
+            <xmax>2153</xmax>
+            <ymax>1136</ymax>
+        </bndbox>
+    </object>
+</annotation>
