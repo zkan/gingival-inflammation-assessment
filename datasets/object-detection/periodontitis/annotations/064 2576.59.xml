@@ -1,0 +1,36 @@
+<annotation>
+    <folder>periodontitis</folder>
+    <filename>064 2576.59.jpg</filename>
+    <size>
+        <width>3256</width>
+        <height>1536</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name></name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1057</xmin>
+            <ymin>751</ymin>
+            <xmax>1251</xmax>
+            <ymax>1032</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name></name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2040</xmin>
+            <ymin>677</ymin>
+            <xmax>2303</xmax>
+            <ymax>961</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>periodontitis</folder>
+    <filename>012 2380.48.jpg</filename>
+    <size>
+        <width>3252</width>
+        <height>1536</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name></name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1980</xmin>
+            <ymin>752</ymin>
+            <xmax>2220</xmax>
+            <ymax>1038</ymax>
+        </bndbox>
+    </object>
+</annotation>
