@@ -1,0 +1,33 @@
+<annotation>
+    <folder>train</folder>
+    <filename>056 2038.59.jpg</filename>
+    <size>
+        <width>3248</width>
+        <height>1536</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>periodontitis</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>1812</x1>
+            <y1>1237</y1>
+            <x2>1996</x2>
+            <y2>1237</y2>
+            <x3>1996</x3>
+            <y3>927</y3>
+            <x4>1812</x4>
+            <y4>927</y4>
+        </polygon>
+        <bndbox>
+            <xmin>1812</xmin>
+            <ymin>927</ymin>
+            <xmax>1996</xmax>
+            <ymax>1237</ymax>
+        </bndbox>
+    </object>
+</annotation>
