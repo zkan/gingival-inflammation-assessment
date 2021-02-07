@@ -1,6 +1,6 @@
 MODEL:
   META_ARCHITECTURE: "GeneralizedRCNN"
-  WEIGHT: "models/model_0001499.pth"
+  WEIGHT: "/models/model_0001499.pth"
   BACKBONE:
     CONV_BODY: "R-101-FPN"
     OUT_CHANNELS: 256
